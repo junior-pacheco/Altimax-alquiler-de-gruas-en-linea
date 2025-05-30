@@ -28,13 +28,6 @@ const Hero = () => {
               <Phone className="h-5 w-5 mr-2" />
               Solicitar Cotización
             </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="text-base flex rounded-lg sm:text-lg px-6 sm:px-8 py-5"
-            >
-              Ver Servicios
-            </Button>
           </div>
 
           {/* Características */}
