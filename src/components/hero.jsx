@@ -18,8 +18,7 @@ const Hero = () => {
               Servicios de <span className="text-blue-600">Grúas Eléctricas</span> Profesionales
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-gray-600 max-w-prose 2xl:leading-relaxed">
-              Especialistas en elevación e instalación de aires acondicionados, letreros, equipos industriales y
-              más. Servicio seguro, rápido y confiable.
+              Especialistas en elevación e instalación de equipos, estructuras, letreros industriales y más. Servicio seguro, rápido y confiable.
             </p>
           </div>
 
