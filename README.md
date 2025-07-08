@@ -1,4 +1,4 @@
-![Vista previa](https://web-gruas-gules.vercel.app/gruas.png)
+![Vista previa](./preview.png)
 
 ## 🚀 Tecnologías utilizadas
 
