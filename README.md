@@ -14,6 +14,6 @@
 
 ```bash
 git clone https://github.com/junior-pacheco/Altimax-alquiler-de-gruas-en-linea.git
-cd play
+cd Altimax-alquiler-de-gruas-en-linea
 npm install
 npm run dev
