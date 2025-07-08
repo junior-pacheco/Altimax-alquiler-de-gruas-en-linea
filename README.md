@@ -1,5 +1,3 @@
-![Vista previa](./gruas.png)
-
 ## 🚀 Tecnologías utilizadas
 
 - [React](https://reactjs.org/)
