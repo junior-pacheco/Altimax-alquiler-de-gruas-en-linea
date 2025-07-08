@@ -1,4 +1,4 @@
-![Vista previa](./preview.png)
+![Vista previa](./gruas.png)
 
 ## 🚀 Tecnologías utilizadas
 
