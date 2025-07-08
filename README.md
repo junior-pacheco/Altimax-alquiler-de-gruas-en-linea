@@ -13,5 +13,7 @@
 ## 📦 Instalación
 
 ```bash
+git clone https://github.com/junior-pacheco/Altimax-alquiler-de-gruas-en-linea.git
+cd play
 npm install
 npm run dev
